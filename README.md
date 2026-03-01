@@ -111,17 +111,27 @@ Optimized DAX measures using DAX Studio.
  🔹 Sales View  
 Revenue decline and growth driver analysis by region, channel, and customer.
 
+![](IMG_4005.png)
+
  🔹 Finance View  
 Automated P&L reporting with profitability insights.
+
+![](IMG_4002.png)
 
  🔹 Marketing View  
 Spend vs revenue contribution and ROI tracking.
 
+![](IMG_4004.png)
+
  🔹 Supply Chain View  
 Forecast accuracy tracking and inventory risk profiling.
 
+![](IMG_4006.png)
+
  🔹 Executive View  
 High-level KPI cockpit for leadership decision-making.
+
+![](IMG_4001.png)
 
 ---
 
