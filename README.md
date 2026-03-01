@@ -1,15 +1,15 @@
 # 📊 Business Insights 360  
-## Turning Data Into Decisions: A 360° Business Intelligence System  
+Turning Data Into Decisions: A 360° Business Intelligence System  
 
 ---
 
-## 📌 BI Report  
+📌 BI Report  
 **View the interactive Power BI dashboard:**  
 [BI Report](https://app.powerbi.com/view?r=eyJrIjoiY2QyZmE0ZTUtZmVjNS00MTk1LWE5NzItNjkxNzI2ZGQ0MGI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
-## 📌 Project Overview  
+📌 Project Overview  
 
 AtliQ Hardware sells computers and accessories through three primary channels:
 
@@ -32,7 +32,7 @@ Leadership required a centralized analytics solution to reduce guesswork and imp
 
 ---
 
-## 🎯 Objective  
+🎯 Objective  
 
 Build a scalable BI solution that:
 
@@ -43,7 +43,7 @@ Build a scalable BI solution that:
 
 ---
 
-## 🛠️ Tech Stack  
+🛠️ Tech Stack  
 
 - **MySQL** – Data extraction  
 - **Power BI** – Data modeling & visualization  
@@ -54,9 +54,9 @@ Build a scalable BI solution that:
 
 ---
 
-## ⚙️ Solution Architecture  
+⚙️ Solution Architecture  
 
-### 🔹 Data Layer  
+ 🔹 Data Layer  
 
 - Extracted structured transactional data using MySQL  
 - Performed full data transformation in Power Query  
@@ -64,16 +64,16 @@ Build a scalable BI solution that:
 - Applied validation checks to ensure revenue and margin accuracy  
 
 ---
-
-### 🔹 Data Modeling  
+ 🔹 Data Modeling  
 
 - Designed a scalable **Snowflake schema**  
 - Built optimized relationships between fact and dimension tables  
-- Ensured efficient filter propagation and performance  
+- Ensured efficient filter propagation and performance
+
+  
 
 ---
-
-### 🔹 KPI Framework  
+ 🔹 KPI Framework  
 
 Developed standardized business KPIs:
 
@@ -89,7 +89,7 @@ Optimized DAX measures using DAX Studio.
 
 ---
 
-## 🎨 Advanced Power BI Features  
+🎨 Advanced Power BI Features  
 
 - Data cleaning & transformation with Power Query  
 - Snowflake data modeling  
@@ -106,26 +106,26 @@ Optimized DAX measures using DAX Studio.
 
 ---
 
-## 📊 Dashboards Delivered  
+📊 Dashboards Delivered  
 
-### 🔹 Sales View  
+ 🔹 Sales View  
 Revenue decline and growth driver analysis by region, channel, and customer.
 
-### 🔹 Finance View  
+ 🔹 Finance View  
 Automated P&L reporting with profitability insights.
 
-### 🔹 Marketing View  
+ 🔹 Marketing View  
 Spend vs revenue contribution and ROI tracking.
 
-### 🔹 Supply Chain View  
+ 🔹 Supply Chain View  
 Forecast accuracy tracking and inventory risk profiling.
 
-### 🔹 Executive View  
+ 🔹 Executive View  
 High-level KPI cockpit for leadership decision-making.
 
 ---
 
-## 📈 Results & Business Outcomes  
+📈 Results & Business Outcomes  
 
 - Eliminated fragmented Excel-based reporting across departments  
 - Reduced manual consolidation effort and reporting delays  
