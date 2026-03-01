@@ -70,7 +70,7 @@ Build a scalable BI solution that:
 - Built optimized relationships between fact and dimension tables  
 - Ensured efficient filter propagation and performance
 
-  
+![Data Model](IMG_3999.png)
 
 ---
  🔹 KPI Framework  
