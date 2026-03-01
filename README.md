@@ -1,5 +1,7 @@
 # Power_BI
-Power BI Projects
+
+🔗 BI Report
+
 📊 Business Insights 360
 
 Turning Data Into Decisions: A 360° Business Intelligence System
