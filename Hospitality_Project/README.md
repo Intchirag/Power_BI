@@ -107,7 +107,6 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 | Tool      | Purpose |
 |----------|--------|
 | Power BI | Dashboard & Visualization |
-| SQL      | Data Analysis |
 | Excel    | Data Cleaning |
 | DAX      | KPI Calculations |
 
