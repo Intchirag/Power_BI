@@ -53,20 +53,19 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ## 📊 Dashboard Preview  
 
-![Home View](IMG_4094.PNG)
+![Home View](IMG_4094.png)
 
+![Data Model](IMG_4095.png)
 
-![Data Model](IMG_4095.PNG)
+![Bookings View](IMG_4096.png)
 
-![Bookings View](IMG_4096.PNG)
+![Property View](IMG_4097.png)
 
-![Property View](IMG_4097.PNG)
-
-![Info](IMG_4099.PNG)
+![Info](IMG_4099.png)
 
 ---
 
-## 🔍 Key Insights  
+🔍 Key Insights  
 
 - **Revenue Leakage:**  
   Others (16,480) and MakeyourTrip (8,073) show high cancellations + no-shows → **₹365M+ revenue loss**  
@@ -85,7 +84,7 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## 🚀 Impact  
+🚀 Impact  
 
 - Identified **₹365M+ revenue leakage**, enabling better booking and pricing strategies  
 - Uncovered **demand patterns**, supporting dynamic pricing decisions  
@@ -93,7 +92,7 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## 📚 Key Learnings  
+📚 Key Learnings  
 
 - Leveraged **advanced Power BI bookmarks** to create interactive navigation and toggle views  
 - Effectively used **KPI cards** to highlight key business metrics  
@@ -102,7 +101,8 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## 🛠 Tech Stack  
+
+🛠 Tech Stack  
 
 | Tool      | Purpose |
 |----------|--------|
@@ -113,7 +113,7 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## 🔗 Connect With Me  
+🔗 Connect With Me  
 
 👉 [Portfolio](https://codebasics.io/portfolio/Chirag-Pacheria)  
 
@@ -121,8 +121,8 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## 🔗 Access Dashboard  
+🔗 Access Dashboard  
 
-👉 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU2OGI0NGEtNmEyNS00MzI3LTlkNDUtOTMyZTBiMGJkZGVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** 
+👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU2OGI0NGEtNmEyNS00MzI3LTlkNDUtOTMyZTBiMGJkZGVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
