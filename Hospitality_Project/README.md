@@ -1,6 +1,6 @@
 # 🏨 AtliQ Grands – Hospitality Business Insights Dashboard
 
-## 📌 Situation  
+📌 Situation  
 
 AtliQ Grands, a well-established chain of five-star hotels across India, has been operating successfully for over 20 years. However, due to increasing competition and lack of data-driven decision-making, the company started losing market share and revenue in the luxury and business hotel segment.  
 
@@ -8,7 +8,7 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## 🎯 Task  
+🎯 Task  
 
 - Develop key hospitality KPIs from raw data  
 - Build an interactive dashboard aligned with stakeholder expectations  
@@ -17,9 +17,9 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ---
 
-## ⚙️ Action  
+⚙️ Action  
 
-### 🔹 KPI Development  
+🔹 KPI Development  
 
 - Total Revenue  
 - Occupancy %  
@@ -33,16 +33,14 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ### 🔹 Dashboard Development (Power BI)  
 
-#### 📊 Filters  
+📊 Filters  
 - Week, Month (May–June-July)  
 - Booking Platform  
 - Booking Status  
 - City  
 - Hotel Property  
 
----
-
-### 🔹 Key Features  
+🔹 Key Features  
 
 - Booking Analysis Matrix (Platform & Status breakdown)  
 - Toggle View (Home & Property-level deep dive using bookmarks)  
@@ -55,10 +53,16 @@ To address this, leadership decided to adopt **Business & Data Intelligence**. S
 
 ## 📊 Dashboard Preview  
 
-> *(Add your dashboard screenshot here)*  
+![Home View](IMG_4094.PNG)
 
-![Dashboard]
-(your-image-link-here)
+
+![Data Model](IMG_4095.PNG)
+
+![Bookings View](IMG_4096.PNG)
+
+![Property View](IMG_4097.PNG)
+
+![Info](IMG_4099.PNG)
 
 ---
 
